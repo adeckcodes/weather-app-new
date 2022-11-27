@@ -94,3 +94,10 @@ ul {
   color: rgb(41, 71, 67, 0.8);
   font-size: small;
 }
+#search-form {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  left: 150px;
+}
