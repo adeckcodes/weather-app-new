@@ -79,6 +79,16 @@ ul {
   display: flex;
   justify-content: space-evenly;
 }
+.weather-forecast-date {
+  opacity: 0.8;
+}
+
+.forecast-temperatures {
+  font-size: 17px;
+}
+.temperature-min {
+  opacity: 0.6;
+}
 .searchBar {
   display: block;
   margin: 0 auto;
@@ -101,3 +111,4 @@ ul {
   position: relative;
   left: 150px;
 }
+
